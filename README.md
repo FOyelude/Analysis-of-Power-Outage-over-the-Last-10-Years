@@ -56,40 +56,59 @@ This analysis provides **utilities, regulators, and policymakers** with the evid
 ---
 
 
-
-# 📌 INSIGHT 1 — Weather Is the Primary Driver of Outages, Causing 54.6% of All Events Over 10 Years
-
-### Story
-
-Over the last decade, **weather-related disruptions have consistently remained the top cause of outages**, accounting for **54.6% of all recorded events**. In the last 5 years alone, overall outage frequency has risen by **90.5%**, and weather continues to be a major contributor to this trend.
-
-Regions such as **SERC** and **WECC** have experienced the heaviest impact, with weather responsible for the majority of outages in these areas. Even as other risks—such as vandalism and human error—grow, **weather consistently remains the most dominant threat to grid stability**.
+Here is the **fully rewritten Insight 1**, incorporating all corrections and your new details.
+Formatted cleanly for **GitHub**, with strong storytelling and precise numbers.
 
 ---
 
-### Why This Matters
+# 📌 **INSIGHT 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks**
 
-Weather-related outages are highly unpredictable and often cause **long downtimes**. Their increasing frequency suggests that grid infrastructure is not adequately built for today’s climate conditions, leading to:
+### **Story**
 
-* Higher restoration costs
-* Increased customer downtime
-* Greater strain on emergency response teams
-* Higher operational losses for businesses and utilities
+A decade-long review of NERC outage data reveals a clear pattern:
+**Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
 
-This pattern indicates that **climate-resilient infrastructure investment is now a necessity, not an option**.
+Across many regions, weather overwhelmingly dominates — especially in **SERC**, where nearly **30%** of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and aging infrastructure.
 
----
+However, the emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents**, making it the epicenter of intentional grid disruption. This trend highlights a growing national security challenge that requires immediate attention.
 
-### Chart Reference
-
-*(See Figure 1: Outages by Event Category, 2013–2022)*
+Beyond these two major factors, **human error** has also sharply increased. Since 2018, outages caused by human mistakes have risen by **108%** — signaling operational weaknesses, training gaps, or understaffing within utility teams.
 
 ---
 
-### Problem Statement
+### **Why This Matters**
 
-The grid **lacks sufficient weather-resilient infrastructure**, especially in high-risk regions like **SERC** and **WECC**. Without targeted reinforcement, outages caused by storms, heatwaves, and natural disasters will continue to rise.
+These trends reveal a grid facing pressure from **both nature and people**:
 
+* Weather events are becoming more frequent and intense
+* Intentional attacks demonstrate increasing coordination and severity
+* Human error is rising, doubling in just five years
+
+Together, these vulnerabilities create a **triple threat** to grid reliability.
+
+For utilities and regulators, this means:
+
+* Infrastructure must be hardened against extreme weather
+* Physical security systems must be upgraded, especially in WECC
+* Operational procedures and staff training must be improved
+* Investment priorities must shift from reactive repairs to proactive resilience
+
+---
+
+### **Chart Reference**
+
+![image](https://github.com/user-attachments/assets/e4a2ba6d-23ff-4bdd-a568-62ec48f91c7b)
+
+**Figure 1: Outages by Event Category (2013–2022)**
+
+---
+
+### **Problem Statement**
+
+The grid is **not adequately protected against its two biggest threats: severe weather and physical attacks**.
+Climate resilience is weakest in **SERC**, **WECC**, and **TRE**, while **WECC experiences half of all vandalism incidents**. Meanwhile, growing human error exposes systemic operational weaknesses.
+
+Without targeted investment in **weather-proofing, physical security upgrades, and workforce performance**, outages will continue to rise in both frequency and severity.
 
 ---
 

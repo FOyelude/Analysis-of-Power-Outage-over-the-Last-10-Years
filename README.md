@@ -55,9 +55,9 @@ This analysis provides **utilities, regulators, and policymakers** with the evid
 
 ---
 
+<img width="1073" height="279" alt="image" src="https://github.com/user-attachments/assets/98755087-6595-4266-967a-2e740a29f3c8" />
 
-Here is the **fully rewritten Insight 1**, incorporating all corrections and your new details.
-Formatted cleanly for **GitHub**, with strong storytelling and precise numbers.
+**Fig 1: How Outage Frequency Has Varied over the last decade (2013-2022)**
 
 ---
 
@@ -66,13 +66,13 @@ Formatted cleanly for **GitHub**, with strong storytelling and precise numbers.
 ### **Story**
 
 A decade-long review of NERC outage data reveals a clear pattern:
-**Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
+**Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** (see Fig 2) are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
 
-Across many regions, weather overwhelmingly dominates — especially in **SERC**, where nearly **30%** of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and aging infrastructure.
+Across many regions, weather overwhelmingly dominates — especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and aging infrastructure.
 
-However, the emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents**, making it the epicenter of intentional grid disruption. This trend highlights a growing national security challenge that requires immediate attention.
+However, the emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicenter of intentional grid disruption. This trend highlights a growing national security challenge that requires immediate attention.
 
-Beyond these two major factors, **human error** has also sharply increased. Since 2018, outages caused by human mistakes have risen by **108%** — signaling operational weaknesses, training gaps, or understaffing within utility teams.
+Beyond these two major factors, **human error** has also sharply increased. Since 2018, outages caused by human mistakes have risen by **108%** (see fig 5) — signaling operational weaknesses, training gaps, or understaffing within utility teams.
 
 ---
 
@@ -97,9 +97,16 @@ For utilities and regulators, this means:
 
 ### **Chart Reference**
 
-![image](https://github.com/user-attachments/assets/e4a2ba6d-23ff-4bdd-a568-62ec48f91c7b)
 
-**Figure 1: Outages by Event Category (2013–2022)**
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6eb580c6-cc20-4113-9be3-14e18ec1e1af" />
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7c8c0bc6-0078-4215-a6a8-399a3dbd7f7d" />
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/835c4a67-d125-4152-b176-01d39c24df07" />
+ <img width="930" height="300" alt="image" src="https://github.com/user-attachments/assets/31d7e54e-e8d4-40f4-83ec-6ca5c8a8e71a" />
+
+
+
+
+**Fig 2: Outages by Event Category**
 
 ---
 

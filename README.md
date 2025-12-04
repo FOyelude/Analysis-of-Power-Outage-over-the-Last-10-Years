@@ -87,10 +87,9 @@ Together, these vulnerabilities create a threat to grid reliability.
 
 For utilities and regulators, this means:
 
-* Infrastructure must be hardened against extreme weather by installing flood barriers and weather sensors
-* Physical security systems such as CCTV cameras, perimeter fencing must be upgraded, starting with WECC
-* Investment priorities must shift from reactive repairs to proactive resilience
-
+* Infrastructure must be hardened against extreme weather by **installing flood barriers** and **weather sensors**
+* Physical security systems such as **CCTV cameras**, **perimeter fencing** must be upgraded, starting with WECC
+* Investment priorities must shift from reactive repairs to **proactive resilience**
 ---
 
 ### **Chart Reference**
@@ -125,14 +124,12 @@ This rise is significant because it comes at a time when outage frequency across
 
 Human-driven outages are **100% preventable**, yet their rapid growth shows systemic issues such as:
 
-* Inadequate training or outdated procedures
+* Inadequate training or outdated procedures due to lack of weekly forums and seminars, lack of mandatory quarterly certifications for operators  and so on 
 * Fatigue and understaffing during high-demand periods
 * Poor documentation or lack of standardized protocols
-* Insufficient oversight during equipment handling and switching
+* Insufficient oversight during equipment handling and switching due to lack of dual-operator verification
 
-Unlike weather or vandalism, human error reflects **operational discipline**, and the increase signals that teams may be overstretched or processes may not be keeping up with grid complexity.
-
-If not addressed, this trend can cause **unnecessary downtime, safety risks, and costly avoidable incidents**.
+Unlike weather or vandalism, human error reflects **operational discipline**, and the increase signals that teams may be overworked or processes may not be keeping up with grid complexity.
 
 ---
 
@@ -187,7 +184,7 @@ The persistence of **vandalism indicates that utilities must strengthen physical
 
 ---
 
-# 📌 INSIGHT 4 — Supply & Demand Issues contribute most to Severe Downtimes (Up to 15 Days MTTR)
+# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days
 
 ### Story
 

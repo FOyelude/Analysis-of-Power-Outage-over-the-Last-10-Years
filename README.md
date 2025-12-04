@@ -184,17 +184,19 @@ The persistence of **vandalism indicates that utilities must strengthen physical
 
 ---
 
-# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days
+# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 20 Days
 
 ### Story
 
-Not all outages are equal. Some last minutes, others last hours, but a specific category consistently pushes the grid into **multi-day or multi-week recovery efforts**: **Supply and Demand Issues**.
+Not all outages are equal. Some last minutes, others last hours, but a specific category consistently pushes the grid into **multi-week or multi-month  recovery efforts**: **Supply and Demand Issues**.
 
 Over the last 10 years, these events have proven to be one of the major drivers of high-downtime outages, responsible for:
 
 * **39.3% of all high-downtime events** (more than a week) (see Fig 7)
 * **An average recovery time of 15 days**, the highest among all event types (Fig 8)
 * **69.4% of total demand loss**, indicating significant strain on system capacity (Fig 9)
+
+Among the only 5 very high downtime events that have occurred, 4 (80%) have been caused by Supply and Demand Issues
 
 Compared to weather events (**11 days MTTR**) or vandalism (**14 days MTTR**), supply-demand imbalance is uniquely damaging because recovery often requires **system-wide recalibration**, not just fixing physical equipment.
 

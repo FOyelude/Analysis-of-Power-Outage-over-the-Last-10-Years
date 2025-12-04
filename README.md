@@ -70,7 +70,7 @@ A decade-long review of NERC outage data reveals a clear pattern:
 
 Across many regions, weather overwhelmingly dominates — especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and aging infrastructure.
 
-However, the emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicenter of intentional grid disruption. This trend highlights a growing national security challenge that requires immediate attention.
+The other emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicenter of intentional grid disruption and lack of effective security personnel if any. Bad Weather might not be so easy to control, but vandalism can certainly be disrupted. 
 
 Beyond these two major factors, **human error** has also sharply increased. Since 2018, outages caused by human mistakes have risen by **108%** (see fig 5) — signaling operational weaknesses, training gaps, or understaffing within utility teams.
 
@@ -87,8 +87,8 @@ Together, these vulnerabilities create a threat to grid reliability.
 
 For utilities and regulators, this means:
 
-* Infrastructure must be hardened against extreme weather
-* Physical security systems must be upgraded, especially in WECC
+* Infrastructure must be hardened against extreme weather by installing flood barriers and weather sensors
+* Physical security systems such as CCTV cameras, perimeter fencing must be upgraded, starting with WECC
 * Investment priorities must shift from reactive repairs to proactive resilience
 
 ---
@@ -105,9 +105,9 @@ For utilities and regulators, this means:
 ### **Problem Statement**
 
 The grid is **not adequately protected against its two biggest threats: severe weather and physical attacks**.
-Climate resilience is weakest in **SERC**, **WECC**, and **TRE**, while **WECC experiences half of all vandalism incidents**. Meanwhile, growing human error exposes systemic operational weaknesses.
+Climate resilience is weakest in **SERC**, **WECC**, and **TRE**, while **WECC experiences half of all vandalism incidents**.
 
-Without targeted investment in **weather-proofing, physical security upgrades, and workforce performance**, outages will continue to rise in both frequency and severity.
+Without targeted investment in **weather-proofing and security upgrades, outages will continue to rise in both frequency and severity.
 
 ---
 

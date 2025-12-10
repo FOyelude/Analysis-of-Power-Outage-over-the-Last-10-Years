@@ -5,11 +5,11 @@
 
 # 📌 Introduction
 
-Every modern economy depends on a stable, resilient, and well-managed power grid. Over the past decade, however, the U.S. grid has faced growing pressure from multiple sources—extreme weather events, aging infrastructure, equipment failures, supply–demand imbalances, and intentional attacks.
+Every modern economy depends on a stable, resilient, and well-managed power grid. Over the past decade, however, the U.S. grid has faced growing pressure from multiple sources, including extreme weather events, ageing infrastructure, equipment failures, supply–demand imbalances, and intentional attacks.
 
-These disruptions do far more than simply turn off the lights. They interrupt business operations, damage critical infrastructure, weaken national energy security, and cost millions in lost productivity. In extreme conditions, outages also pose serious threats to public safety.
+These disruptions do far more than simply turn off the lights. They disrupt business operations, damage critical infrastructure, compromise national energy security, and incur millions in lost productivity. In extreme conditions, outages also pose serious threats to public safety.
 
-In this context, outage data is not just numerical information. It represents the stability of the energy backbone that powers homes, industries, hospitals, and entire communities. Understanding these patterns is essential for building a grid capable of withstanding current and future challenges.
+In this context, outage data is not just numerical information. It represents the stability of the energy backbone that powers homes, industries, hospitals, and entire communities. Understanding these patterns is crucial for developing a grid that can withstand current and future challenges.
 
 ---
 
@@ -21,25 +21,25 @@ The U.S. power grid is experiencing more frequent and more severe outages, drive
 * **How their frequency has changed**
 * **Which events cause the longest downtimes**
 * **Which regions are most vulnerable**
-* **Which outages are preventable vs. unavoidable**
+* **Which outages are preventable or unavoidable**
 
 Without this clarity, investments are misaligned, response strategies underperform, and risks accumulate across the system.
 
-This report analyzes **10 years of NERC outage data** to uncover the root causes of disruptions and identify meaningful trends. The aim is to transform raw outage logs into actionable insights that help stakeholders:
+This report analyses **10 years of NERC outage data** to uncover the root causes of disruptions and identify meaningful trends. The aim is to transform raw outage logs into actionable insights that help stakeholders:
 
 * improve grid reliability,
-* prioritize infrastructure upgrades,
+* prioritise infrastructure upgrades,
 * reduce downtime and operational losses,
 * enhance disaster and attack preparedness, and
 * develop evidence-based policies rather than reactive measures.
 
-We are not analyzing the past just to describe it—we are analyzing it to **help prevent the next major outage**.
+We are not analysing the past just to describe it, we are analysing it to **help prevent the next major outage**.
 
 ---
 
 # 📌 Executive Summary
 
-The stability of the U.S. power grid is under increasing pressure. Over the last decade, **outage frequency has risen sharply — up 139%** — driven primarily by extreme weather, growing security threats, and aging infrastructure. These outages disrupt businesses, weaken energy security, and expose critical vulnerabilities across the electric system.
+The stability of the U.S. power grid is under increasing pressure. Over the last decade, **outage frequency has risen sharply — up 139%** — driven primarily by extreme weather, growing security threats, and ageing infrastructure. These outages disrupt businesses, weaken energy security, and expose critical vulnerabilities across the electric system.
 
 Our analysis of ten years of national outage data reveals that **weather remains the single largest driver of grid disruption**, responsible for **54.6% of all events** and **65.3% of total downtime days**. Regions such as **SERC, WECC, and TRE** face the greatest exposure, highlighting the need for targeted infrastructure reinforcement and climate-resilient upgrades.
 
@@ -49,9 +49,9 @@ The consequences extend beyond frequency. **Supply and demand imbalances now pro
 
 Customer impact is most pronounced in **WECC, SERC, and TRE**, where outages affect the highest number of people. In **WECC alone**, nearly **30% of all affected customers** reside, primarily due to weather-related events.
 
-Overall, the findings underscore a grid that is increasingly vulnerable, both structurally and operationally. **Strengthening infrastructure, improving demand-supply forecasting, enhancing cyber-physical security, and modernizing operational processes** will be essential to building a more resilient and reliable energy future.
+Overall, the findings underscore a grid that is increasingly vulnerable, both structurally and operationally. **Strengthening infrastructure, improving demand-supply forecasting, enhancing cyber-physical security, and modernising operational processes** will be essential to building a more resilient and reliable energy future.
 
-This analysis provides **utilities, regulators, and policymakers** with the evidence needed to prioritize investments, reduce downtime, and mitigate the growing risks affecting millions of customers nationwide.
+This analysis provides **utilities, regulators, and policymakers** with the evidence needed to prioritise investments, reduce downtime, and mitigate the growing risks affecting millions of customers nationwide.
 
 ---
 
@@ -65,14 +65,14 @@ This analysis provides **utilities, regulators, and policymakers** with the evid
 
 ### **Story**
 
-A decade-long review of NERC outage data reveals a clear pattern:
-**Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** (see Fig 2) are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
+A decade-long review of US outage data reveals a clear pattern:
+**Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** (see Fig. 2) are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
 
-Across many regions, weather overwhelmingly dominates — especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and aging infrastructure.
+Across many regions, weather overwhelmingly dominates, especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and ageing infrastructure.
 
-The other emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicenter of intentional grid disruption and lack of effective security personnel if any. Bad Weather might not be so easy to control, but vandalism can certainly be disrupted. 
+The other emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicentre of intentional grid disruption and lack of effective security personnel, if any. Bad Weather might not be so easy to control, but vandalism can certainly be disrupted. 
 
-Beyond these two major factors, **human error** has also sharply increased. Since 2018, outages caused by human mistakes have risen by **108%** (see fig 5) — signaling operational weaknesses, training gaps, or understaffing within utility teams.
+Beyond these two major factors, **human error** has also increased sharply. Since 2018, outages caused by human mistakes have risen by **108%** (see fig 5) — signaling operational weaknesses, training gaps, or understaffing within utility teams.
 
 ---
 

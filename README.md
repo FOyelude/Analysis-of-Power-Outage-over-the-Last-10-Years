@@ -1,4 +1,4 @@
-# How Will Last Decade's Power Outage Affect the future
+# A Decade of Power Grid Outages: Root Causes, Trends & Regional Impacts
 
 
 ---
@@ -7,7 +7,7 @@
 
 Every modern economy depends on a stable, resilient, and well-managed power grid. Over the past decade, however, the U.S. grid has faced growing pressure from multiple sources, including extreme weather events, ageing infrastructure, equipment failures, supply–demand imbalances, and intentional attacks.
 
-These disruptions do far more than simply turn off the lights. They disrupt business operations, damage critical infrastructure, compromise national energy security, and incur millions in lost productivity. In extreme conditions, outages also pose serious threats to public safety.
+These disruptions do far more than simply turn off the lights. They disrupt business operations, damage critical infrastructure, compromise national energy security, and result in millions of dollars in lost productivity. In extreme conditions, outages also pose serious threats to public safety.
 
 In this context, outage data is not just numerical information. It represents the stability of the energy backbone that powers homes, industries, hospitals, and entire communities. Understanding these patterns is crucial for developing a grid that can withstand current and future challenges.
 
@@ -68,11 +68,9 @@ This analysis provides **utilities, regulators, and policymakers** with the evid
 A decade-long review of US outage data reveals a clear pattern:
 **Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** (see Fig. 2) are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
 
-Across many regions, weather overwhelmingly dominates, especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **TRE** and **WECC** follow closely, showing clear signs of climate vulnerability and ageing infrastructure.
+Across many regions, weather overwhelmingly dominates, especially in **SERC**, where nearly **30%** (see fig 3) of all outages stem from storms, heatwaves, and natural disasters. **WECC** and **TRE** follow closely, showing clear signs of climate vulnerability and ageing infrastructure.
 
-The other emerging threat is physical security. **WECC alone accounts for 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicentre of intentional grid disruption and lack of effective security personnel, if any. Bad Weather might not be so easy to control, but vandalism can certainly be disrupted. 
-
-Beyond these two major factors, **human error** has also increased sharply. Since 2018, outages caused by human mistakes have risen by **108%** (see fig 5) — signaling operational weaknesses, training gaps, or understaffing within utility teams.
+The other emerging threat is physical security. **WECC alone accounts for almost 50% of all vandalism and physical attack incidents** (see fig 4), making it the epicentre of intentional grid disruption and lack of effective security personnel, if any. Bad Weather might not be so easy to control, but vandalism can certainly be disrupted. 
 
 ---
 
@@ -96,8 +94,9 @@ For utilities and regulators, this means:
 
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6eb580c6-cc20-4113-9be3-14e18ec1e1af" />
- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7c8c0bc6-0078-4215-a6a8-399a3dbd7f7d" />
- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/835c4a67-d125-4152-b176-01d39c24df07" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e38bedb0-c726-457c-83f4-21676e0dfdb3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/03eb1bc5-c10e-465d-8b01-12c5324260de" />
+
 
 ---
 
@@ -114,7 +113,7 @@ Without targeted investment in **weather-proofing and security upgrades, outages
 
 ### Story
 
-While weather and vandalism remain major contributors to outages, **human error has emerged as a rapidly growing threat**. Since 2018, outages caused by operational mistakes have increased by **108%** (see Fig. 5), making it one of the fastest-rising contributors to grid disruptions.
+While weather and vandalism remain major contributors to outages, **human error has emerged as a rapidly growing threat** (see Fig. 2) . Since 2018, outages caused by operational mistakes have increased by **108%** (see Fig. 5), making it one of the fastest-rising contributors to grid disruptions.
 
 This rise is significant because it comes at a time when outage frequency across all categories has already grown sharply — **90.5% in the last 5 years** and **139.4% over 10 years**. The data suggests not only external pressure on the grid, but also **internal operational weaknesses** within teams responsible for system oversight and maintenance.
 
@@ -126,8 +125,8 @@ Human-driven outages are **100% preventable**, yet their rapid growth shows syst
 
 * Inadequate training or outdated procedures due to lack of weekly forums and seminars, lack of mandatory quarterly certifications for operators  and so on 
 * Fatigue and understaffing during high-demand periods
-* Poor documentation or lack of standardized protocols
-* Insufficient oversight during equipment handling and switching due to lack of dual-operator verification
+* Poor documentation or lack of standardised protocols
+* Insufficient oversight during equipment handling and switching due to a lack of dual-operator verification
 
 Unlike weather or vandalism, human error reflects **operational discipline**, and the increase signals that teams may be overworked or processes may not be keeping up with grid complexity.
 
@@ -141,20 +140,20 @@ Unlike weather or vandalism, human error reflects **operational discipline**, an
 
 ### Problem Statement
 
-The rising rate of **human-error outages indicates operational gaps** that must be closed. Utilities need **stronger training programs, clearer operating procedures, digital checklists, and real-time monitoring systems** to reduce preventable disruptions.
+The rising rate of **human-error outages indicates operational gaps** that must be addressed. Utilities need **stronger training programs, clearer operating procedures, digital checklists, and real-time monitoring systems** to reduce preventable disruptions.
 
 ---
 
 
-# 📌 INSIGHT 3 — Vandalism Is a Critical and Growing Threat, Especially in WECC (47.7% of Outages)
+# 📌 INSIGHT 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)
 
 ### Story
 
-While weather dominates outage frequency nationally, **vandalism has quietly become one of the most destabilizing man-made threats to the grid** — and certain regions are feeling the impact disproportionately.
+While weather dominates outage frequency nationally, **vandalism has quietly become one of the most destabilising man-made threats to the grid** — and certain regions are feeling the impact disproportionately.
 
-Across all regions, vandalism accounts for a significant share of outages, but in the **WECC** region, it is the dominant driver, where up to **50% of all outages** occurred — the highest concentration in the country and representing **15.6% of all outages recorded nationwide** (see Fig. 6).
+Across all regions, vandalism accounts for a significant share of outages, but in the **WECC** region, it is the dominant driver, where almost **50% of all outages** occurred — the highest concentration in the country and representing **14.86% of all outages recorded nationwide** (see Fig. 6).
 
-**SERC** and **TRE** also show high vulnerability, with vandalism causing **15.91%** and **7.49%** of outages respectively (see Fig 5). These are not isolated events; they form a pattern severe enough to raise concerns about **infrastructure security** and **regulatory preparedness**.
+**SERC** region also shows high vulnerability, with **15.34%** of vandalism outages occurring (see Fig. 4). These are not isolated events; they form a pattern severe enough to raise concerns about **infrastructure security** and **regulatory preparedness**.
 
 ---
 
@@ -167,52 +166,53 @@ Vandalism-driven outages are different from weather or equipment failures — th
 * Increase risk to field personnel responding to unsafe environments
 * Demonstrate how easily the power supply can be deliberately disrupted
 
-Given that **WECC** handles a large portion of U.S. energy distribution across vast rural areas, these attacks suggest that many sites remain **under-secured, unmonitored, or physically isolated**, making them easy targets.
+Given that **WECC** handles a large portion of U.S. energy distribution across vast rural areas, these attacks suggest that many sites remain **under-secured, unmonitored, or physically isolated**, making them vulnerable to exploitation.
 
 ---
 
 ### Chart Reference
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/48d9de0d-29eb-423d-a5b4-f624fdb0e681" />
+<img width="989" height="582" alt="image" src="https://github.com/user-attachments/assets/91dbab36-244d-47e8-a92c-f173409caf4c" />
+
 
 ---
 
 ### Problem Statement
 
-The persistence of **vandalism indicates that utilities must strengthen physical security** — from surveillance and access control to rapid-response protocols — especially in high-risk regions like **WECC, SERC, and TRE**. Without intervention, **intentional disruptions will continue to undermine grid reliability and public safety**.
+The persistence of **vandalism indicates that utilities must strengthen physical security** — from surveillance and access control to rapid-response protocols — especially in high-risk regions like **WECC and SERC**. Without intervention, **intentional disruptions will continue to undermine grid reliability and public safety**.
 
 
 
 ---
 
-# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 20 Days
+# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days
 
 ### Story
 
-Not all outages are equal. Some last minutes, others last hours, but a specific category consistently pushes the grid into **multi-week or multi-month  recovery efforts**: **Supply and Demand Issues**.
+Not all outages are equal. Some last minutes, others last hours, but a specific category called High downtimes consistently pushes the grid into **multi-week or multi-month  recovery efforts**: **Supply and Demand Issues**.
 
 Over the last 10 years, these events have proven to be one of the major drivers of high-downtime outages, responsible for:
 
-* **39.3% of all high-downtime events** (more than a week) (see Fig 7)
-* **An average recovery time of 15 days**, the highest among all event types (Fig 8)
-* **69.4% of total demand loss**, indicating significant strain on system capacity (Fig 9)
+* **39.3% of all high-downtime events** (more than a week) (see Fig. 7)
+* **An average recovery time of 15 days** across high downtime events, the highest among all event types (Fig. 8)
+* **69.4% of total demand loss** associated with high downtime events, indicating significant strain on system capacity (Fig. 9)
 
-Among the only 5 very high downtime events that have occurred, 4 (80%) have been caused by Supply and Demand Issues
+Among the only 5 very high downtime events (regarded as outlier events) that have occurred, 4 (80%) have been caused by Supply and Demand Issues (Fig. 13)
 
 Compared to weather events (**11 days MTTR**) or vandalism (**14 days MTTR**), supply-demand imbalance is uniquely damaging because recovery often requires **system-wide recalibration**, not just fixing physical equipment.
 
-In other to avoid supply and demand issues, the regions they occur frequently need to be known. Considering both Outage Frequency and MTTR.The region to be initially improved on include:
+To avoid supply and demand issues, regions where they frequently occur need to be identified and addressed. Considering both Outage Frequency and MTTR.The region to be initially improved on includes:
 
-* **MRO**: 6.33 days MTTR, 12 occurrences] 
-* **NPCC**: 8.67 MTTR, 10 occurences
-(See Fig 11 and 12)
+* **MRO**: 6.33 days MTTR, 12 occurrences
+* **NPCC**: 8.67 MTTR, 10 occurrences
+(See Figs. 11 and 12)
 
-This highlights a deeper issue: the grid is struggling not only with external threats, but **internal instability rooted in aging infrastructure, peak-demand spikes, and insufficient reserve generation**.
+This highlights a deeper issue: the grid is struggling not only with external threats, but also with **internal instability rooted in ageing infrastructure, peak-demand spikes, and insufficient reserve generation**.
 
 ---
 
 ### Why This Matters
 
-High-downtime events are the **costliest outages** for utilities and communities. They:
+High-downtime events are the **most costly outages** for utilities and communities. They:
 
 * Disrupt critical services for long periods
 * Lead to major financial losses in commerce and industry
@@ -229,8 +229,10 @@ A **15-day average recovery time** signals that U.S. grid capacity is **under-pr
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/41255fad-518c-4ba8-abf4-1b5057c0bf00" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b943956e-4b3b-4df6-b1da-5bac3b3695c3" />
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8e300230-42fe-418e-8c06-45b952a503aa" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/777600a2-31e7-44da-b591-e7a50c1ba1f9" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fa0dd065-635e-4641-a7de-f96d0ae258d6" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c2f67531-3556-4e8e-acab-7af271660dd0" />
+
 <img width="873" height="430" alt="image" src="https://github.com/user-attachments/assets/3e8495fc-32ea-4f6b-b746-f29d6846a929" />
 
 
@@ -238,7 +240,7 @@ A **15-day average recovery time** signals that U.S. grid capacity is **under-pr
 
 ### Problem Statement
 
-To reduce prolonged outages, utilities must invest in **demand forecasting models, Grid modernization, Load-balancing technologies. Prioritizing NPCC, WPCC, and TRE** would yield the fastest improvements because they consistently experience **high recovery delays**.
+To reduce prolonged outages, utilities must invest in **demand forecasting models, Grid modernisation, and load-balancing technologies. Prioritising NPCC, WPCC, and TRE** would yield the fastest improvements because they consistently experience **high recovery delays**.
 
 
 ---

@@ -171,7 +171,7 @@ Given that **WECC** handles a large portion of U.S. energy distribution across v
 ---
 
 ### Chart Reference
-<img width="989" height="582" alt="image" src="https://github.com/user-attachments/assets/91dbab36-244d-47e8-a92c-f173409caf4c" />
+<img width="996" height="591" alt="image" src="https://github.com/user-attachments/assets/b0209e33-7b6c-423a-8731-44c2ef59ac51" />
 
 
 ---

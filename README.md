@@ -5,23 +5,18 @@
 # Table of Contents
 
 1. [Introduction](#introduction)  
-2. [Problem Statement](#problem-statement)  
-3. [Executive Summary](#executive-summary)  
-
-4. [Data & Methodology](#data-methodology)  
-   - [Data Sources](#data-sources)  
-   - [Timeframe & Coverage](#timeframe-coverage)  
-   - [Event Definitions & Categorisation](#definitions)  
-   - [Analytical Methods & Metrics](#methods)  
-
-5. [Key Findings (Insights)](#insights)  
-   - [Insight 1 — Extreme Weather & Physical Attacks](#insight1)  
-   - [Insight 2 — Human Error Rise](#insight2)  
-   - [Insight 3 — Vandalism Trends](#insight3)  
-   - [Insight 4 — Supply–Demand Long Downtimes](#insight4)  
+2. [Problem Statement](#problemstatement)  
+3. [Executive Summary](#executivesummary)
+4. [Key Findings](#keyfindings)  
+   - [Insight 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks](#insight1)  
+   - [Insight 2 — Human Error–Related Outages Have Increased by 108% Since 2018](#insight2)  
+   - [Insight 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)](#insight3)  
+   - [Insight 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days](#insight4)
+5. [Recommendations](#recommendations)
+6. [Conclusion](#conclusion)
 
 ---
-# 📌<a id="executive-summary">Introduction</a>
+# 📌<a id="introduction">Introduction</a>
 
 Every modern economy depends on a stable, resilient, and well-managed power grid. Over the past decade, however, the U.S. grid has faced growing pressure from multiple sources, including extreme weather events, ageing infrastructure, equipment failures, supply–demand imbalances, and intentional attacks.
 
@@ -31,7 +26,7 @@ In this context, outage data is not just numerical information. It represents th
 
 ---
 
-# 📌 Problem Statement
+# 📌 <a id ="problemstatement">Problem Statement</a>
 
 The U.S. power grid is experiencing more frequent and more severe outages, driven by both natural and human-related factors. Yet utilities, regulators, and policymakers often lack a clear, data-driven understanding of:
 
@@ -55,7 +50,7 @@ We are not analysing the past just to describe it, we are analysing it to **help
 
 ---
 
-# 📌 Executive Summary
+# 📌 <a id = "executivesummary">Executive Summary</a>
 The U.S. power grid is facing mounting pressure from **multiple, rapidly evolving threats**. Over the past decade, outage frequency has surged, driven by a combination of **extreme weather, rising physical attacks, operational strain, and supply–demand stress**. These disruptions now pose significant risks to national reliability, economic stability, and public confidence.
 
 Our analysis of ten years of outage data shows that **weather and natural disasters remain the leading cause**, responsible for **35.3% of all recorded events** nationwide. However, **physical attacks and vandalism have emerged as a close second**, contributing **30.7%** of all events. In the **WECC region**, nearly **half of all outages (47.7%)** are caused by physical attacks, making it one of the most significant security vulnerabilities in the country.
@@ -82,8 +77,8 @@ This analysis provides a **clear roadmap** for utilities, regulators, and policy
 **Fig 1: How Outage Frequency Has Varied over the last decade (2013-2022)**
 
 ---
-
-# 📌 **INSIGHT 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks**
+# <a id = "keyfindings">Key Findings</a>
+## 📌 <a id = "insight1">**INSIGHT 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks**</a>
 
 ### **Story**
 
@@ -131,7 +126,7 @@ Without targeted investment in **weather-proofing and security upgrades, outages
 
 ---
 
-# 📌 INSIGHT 2 — Human Error–Related Outages Have Increased by 108% Since 2018
+## 📌 <a id = "insight2">INSIGHT 2 — Human Error–Related Outages Have Increased by 108% Since 2018</a>
 
 ### Story
 
@@ -167,7 +162,7 @@ The rising rate of **human-error outages indicates operational gaps** that must 
 ---
 
 
-# 📌 INSIGHT 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)
+## 📌 <a id = "insight3">INSIGHT 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)</a>
 
 ### Story
 
@@ -206,7 +201,7 @@ The persistence of **vandalism indicates that utilities must strengthen physical
 
 ---
 
-# 📌 INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days
+## 📌 <a id = "insight4">INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days</a>
 
 ### Story
 
@@ -267,7 +262,7 @@ To reduce prolonged outages, utilities must invest in **demand forecasting model
 
 ---
 
-# 🔧 Recommendations
+# 🔧 <a id = "recommendations">Recommendations</a>
 
 ---
 
@@ -384,7 +379,7 @@ To reduce prolonged outages, utilities must invest in **demand forecasting model
 
 ---
 
-# 🔚 Conclusion
+# 🔚 <a id = "conclusion">Conclusion</a>
 
 Ten years of U.S. outage data reveal a simple truth: the power grid is under growing pressure from **multiple and increasingly severe threats**. While extreme weather remains the leading disruptor, the sharp rise in **human errors, supply–demand stress, and physical attacks** shows that vulnerabilities now extend well beyond natural causes.
 

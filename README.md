@@ -2,8 +2,26 @@
 
 **<div align= "right"> December 12, 2025 </div>**
 
+# Table of Contents
+
+1. [Introduction](#introduction)  
+2. [Problem Statement](#problem-statement)  
+3. [Executive Summary](#executive-summary)  
+
+4. [Data & Methodology](#data-methodology)  
+   - [Data Sources](#data-sources)  
+   - [Timeframe & Coverage](#timeframe-coverage)  
+   - [Event Definitions & Categorisation](#definitions)  
+   - [Analytical Methods & Metrics](#methods)  
+
+5. [Key Findings (Insights)](#insights)  
+   - [Insight 1 — Extreme Weather & Physical Attacks](#insight1)  
+   - [Insight 2 — Human Error Rise](#insight2)  
+   - [Insight 3 — Vandalism Trends](#insight3)  
+   - [Insight 4 — Supply–Demand Long Downtimes](#insight4)  
+
 ---
-# 📌 Introduction
+# 📌<a id="executive-summary">Introduction</a>
 
 Every modern economy depends on a stable, resilient, and well-managed power grid. Over the past decade, however, the U.S. grid has faced growing pressure from multiple sources, including extreme weather events, ageing infrastructure, equipment failures, supply–demand imbalances, and intentional attacks.
 

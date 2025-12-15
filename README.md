@@ -7,13 +7,14 @@
 1. [Introduction](#introduction)  
 2. [Problem Statement](#problemstatement)  
 3. [Executive Summary](#executivesummary)
-4. [Key Findings](#keyfindings)  
+4. [Data Structure and Overview](#datastructure)
+5. [Key Findings](#keyfindings)  
    - [Insight 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks](#insight1)  
    - [Insight 2 — Human Error–Related Outages Have Increased by 108% Since 2018](#insight2)  
    - [Insight 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)](#insight3)  
    - [Insight 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days](#insight4)
-5. [Recommendations](#recommendations)
-6. [Conclusion](#conclusion)
+6. [Recommendations](#recommendations)
+7. [Conclusion](#conclusion)
 
 ---
 # 📌<a id="introduction">Introduction</a>
@@ -77,22 +78,28 @@ This analysis provides a **clear roadmap** for utilities, regulators, and policy
 **Fig 1: How Outage Frequency Has Varied over the last decade (2013-2022)**
 
 ---
-1. **Data Loading and Transformation:**
-   - Loaded patient records into Power BI.
-   - Transformed the data to ensure accuracy and consistency.
-  
-   **Data Structure Overview**
-   ![Hospital Data structure](https://github.com/user-attachments/assets/3136b647-aff5-4bf4-b8ba-72c89daae3b7)
+# **<a id = "datastructure">Data Structure Overview</a>**
 
+This dataset contains records of **electric emergency incidents and disturbances** across the U.S. power grid from **January 2002 to July 2023**.
+It includes information on:
+- Event start and end times, Alert criteria, Affected regions, Demand loss, Number of customers affected
 
-3. **Creating the Dashboard:**
-   - Built the dashboard in Power BI to visualise KPIs.
-   - Developed measures and calculated columns to analyse patient admissions, readmissions, average stay durations, and costs per visit.
-   - Filtered and cleaned data to ensure the inclusion of relevant information and the removal of any duplicates or errors.
-     
-![Hospital Data CLeaning](https://github.com/user-attachments/assets/90ee3ccc-4ae2-49d4-976f-879ebf4b8133)
+The dataset comprises approximately **4,000 records** and was compiled by **Maven Analytics**, sourced directly from reports published by the **U.S. Department of Energy**
+#### **Data Loading and Cleaning**
 
-   
+* Loaded the dataset into **Power BI** and split it into separate queries by year group due to differences in data structure and formatting
+  *(2002–2010, 2011–2014, 2015–2022, 2023).*
+* Used **ChatGPT-assisted data cleaning** to standardise fields, correct improperly recorded entries, and recover incomplete records where possible.
+* Filtered out records that could not be logically interpreted or validated.
+* Wrote **DAX measures** to categorise outage event types into five standardised groups:
+  **Weather / Natural Disasters**, **Equipment Failure / Malfunction**, **Supply–Demand Issues**, **Vandalism / Physical Attacks**, and **Other**.
+
+#### **Creating the Dashboard:**
+   - Built the dashboard below in Power BI to visualise KPIs.
+   - Developed measures to analyse outage frequency, downtime, Mean time to recovery, total demand losses and customers affected. 
+   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83aa3063-a269-479f-90c7-e6b01bcc0199" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4217aeb6-0c46-4d29-9654-2a5bbbbf8982" />
+ 
 ---
 # <a id = "keyfindings">Key Findings</a>
 ## 📌 <a id = "insight1">**INSIGHT 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks**</a>
@@ -164,7 +171,7 @@ Unlike weather or vandalism, human error reflects **operational discipline**, an
 
 ### Chart Reference
 
-<img width="1130" height="300" alt="image" src="https://github.com/user-attachments/assets/31d7e54e-e8d4-40f4-83ec-6ca5c8a8e71a" />
+<img width="1130" height="250" alt="image" src="https://github.com/user-attachments/assets/31d7e54e-e8d4-40f4-83ec-6ca5c8a8e71a" />
 
 ---
 
@@ -199,7 +206,7 @@ Given that **WECC** handles a large portion of U.S. energy distribution across v
 ---
 
 ### Chart Reference
-<img width="996" height="591" alt="image" src="https://github.com/user-attachments/assets/b0209e33-7b6c-423a-8731-44c2ef59ac51" />
+<img width="996" height="550" alt="image" src="https://github.com/user-attachments/assets/b0209e33-7b6c-423a-8731-44c2ef59ac51" />
 
 
 ---
@@ -259,7 +266,7 @@ A **15-day average recovery time** signals that U.S. grid capacity is **under-pr
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fa0dd065-635e-4641-a7de-f96d0ae258d6" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c2f67531-3556-4e8e-acab-7af271660dd0" />
 
-<img width="873" height="430" alt="image" src="https://github.com/user-attachments/assets/3e8495fc-32ea-4f6b-b746-f29d6846a929" />
+<img width="909" height="430" alt="image" src="https://github.com/user-attachments/assets/3e8495fc-32ea-4f6b-b746-f29d6846a929" />
 
 
 ---

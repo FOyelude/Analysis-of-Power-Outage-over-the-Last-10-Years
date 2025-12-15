@@ -282,113 +282,101 @@ To reduce prolonged outages, utilities must invest in **demand forecasting model
 
 ---
 
-# **1. Strengthen Weather-Resilient Infrastructure in High-Risk Regions**
+### **1. Strengthen Weather-Resilient Infrastructure in High-Risk Regions**
 
 **Why:** Weather/Natural Disasters remain the largest outage driver at **35.3% of all events**, with SERC alone experiencing nearly **30%** of all weather-related outages. WECC and TRE also show strong vulnerability to storms and extreme conditions.
 
 **What to Do:**
-
 * Install storm-hardening upgrades (insulated conductors, storm-rated poles, selective undergrounding)
 * Accelerate vegetation management cycles in storm and hurricane zones
 * Deploy real-time weather and line sensors to predict failures early
 * Prioritize **SERC → WECC → TRE** based on highest exposure
 
 **Expected Impact:**
-
 * Noticeable reduction in weather-driven outages and downtime
 * Lower long-term grid repair and maintenance costs
 * Stronger climate resilience and regulatory compliance
 
 ---
 
-# **2. Enhance Grid Security to Reduce Vandalism and Physical Attacks**
+### **2. Enhance Grid Security to Reduce Vandalism and Physical Attacks**
 
 **Why:** Vandalism/Physical Attacks account for **30.7%** of all outages nationally and nearly **50% of all such incidents occur in WECC**, making it the highest-risk region for intentional disruptions.
 
 **What to Do:**
-
 * Deploy advanced perimeter monitoring (CCTV, motion sensors, intrusion alerts)
 * Reinforce fencing and access control at remote substations
 * Increase targeted patrols in high-incident locations
 * Align with federal/state agencies to monitor and respond to threat hotspots
 
 **Expected Impact:**
-
 * Significant reduction in avoidable, human-driven disruptions
 * Improved protection of high-value assets
 * Reduced chances of cascading failures from targeted attacks
 
 ---
 
-# **3. Modernise Operational Processes to Reduce Human and Procedural Errors**
+### **3. Modernise Operational Processes to Reduce Human and Procedural Errors**
 
 **Why:** Human-related outages have increased by **108% since 2018**, making them one of the fastest-growing and fully preventable disruption categories.
 
 **What to Do:**
-
 * Hold weekly refresher forums and mandatory quarterly operator certifications
 * Automate high-risk manual switching using sensors, SCADA, and AI alerts
 * Implement strict incident logging with required root-cause analysis
 * Standardise operating protocols across all regional control centres
 
 **Expected Impact:**
-
 * Fewer preventable outages linked to human mistakes
 * Higher operator reliability and team performance
 * A stronger culture of accountability and safety
 
 ---
 
-# **4. Upgrade Load Forecasting and Supply Planning to Prevent Long Downtimes**
+### **4. Upgrade Load Forecasting and Supply Planning to Prevent Long Downtimes**
 
 **Why:** Supply–demand imbalance events cause the **longest outages**, averaging **15 days per incident**, and represent **69.4% of total demand loss**. NPCC and MRO are the slowest in restoring supply.
 
 **What to Do:**
-
 * Deploy AI-based load forecasting using weather, demand spikes, and grid stress indicators
 * Strengthen reserve margins during extreme-weather seasons
 * Expand interconnection transfer capacity for emergency load support
 * Increase distributed storage to absorb peak shocks
 
 **Expected Impact:**
-
 * Major reduction in long-duration outages
 * Enhanced system flexibility and emergency preparedness
 * Higher reliability scores and customer confidence
 
 ---
 
-# **5. Accelerate Regional Response Preparedness for High-Downtime Events**
+### **5. Accelerate Regional Response Preparedness for High-Downtime Events**
 
 **Why:** Regions such as **FRCC, SPP RE, TRE, and RFC** show slow recovery from weather events, while **NPCC and MRO** have extended recovery times for supply–demand disruptions.
 
 **What to Do:**
-
 * Create regional rapid-response task forces
 * Pre-position crews, transformers, and repair equipment before high-risk seasons
 * Use prediction models to deploy teams proactively
 * Conduct joint emergency response drills with local governments
 
 **Expected Impact:**
-
 * Faster restoration and reduced outage duration
 * Lower societal and economic impact during disasters
 * A more resilient and better coordinated response system
 
 ---
 
-# **6. Build Consumer-Facing Early Warning and Transparency Systems**
+### **6. Build Consumer-Facing Early Warning and Transparency Systems**
 
 **Why:** Customers in **WECC, SERC, and TRE** are the most frequently affected — with **WECC alone accounting for 29.76%** of all impacted customers.
 
 **What to Do:**
-
 * Send automated SMS/app alerts for expected outages
 * Improve accuracy and refresh rate of real-time outage maps
 * Provide Estimated Time of Restoration (ETR) with continuous updates
 
 **Expected Impact:**
-
 * Higher customer satisfaction despite service disruptions
 * Reduced customer service call volume
 * Better public trust through transparent communication

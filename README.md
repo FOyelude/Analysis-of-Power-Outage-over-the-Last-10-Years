@@ -78,7 +78,7 @@ This analysis provides a **clear roadmap** for utilities, regulators, and policy
 **Fig 1: How Outage Frequency Has Varied over the last decade (2013-2022)**
 
 ---
-# **<a id = "datastructure">Data Structure Overview</a>**
+# **<a id = "datastructure">Data Structure and Overview</a>**
 
 This dataset contains records of **electric emergency incidents and disturbances** across the U.S. power grid from **January 2002 to July 2023**.
 It includes information on:

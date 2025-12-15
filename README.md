@@ -95,7 +95,7 @@ The dataset comprises approximately **4,000 records** and was compiled by **Mave
   **Weather / Natural Disasters**, **Equipment Failure / Malfunction**, **Supply–Demand Issues**, **Vandalism / Physical Attacks**, and **Other**.
 
 #### **Creating the Dashboard:**
-   - Built the dashboard below in Power BI to visualise KPIs.
+   - Built the [DASHBOARD](https://github.com/FOyelude/Analysis-of-Power-Outage-over-the-Last-10-Years/blob/main/US%20Electrical%20Outages%20project.pbix) below in Power BI to visualise KPIs.
    - Developed measures to analyse outage frequency, downtime, Mean time to recovery, total demand losses and customers affected. 
    <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83aa3063-a269-479f-90c7-e6b01bcc0199" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4217aeb6-0c46-4d29-9654-2a5bbbbf8982" />

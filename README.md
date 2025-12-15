@@ -77,10 +77,25 @@ This analysis provides a **clear roadmap** for utilities, regulators, and policy
 **Fig 1: How Outage Frequency Has Varied over the last decade (2013-2022)**
 
 ---
+1. **Data Loading and Transformation:**
+   - Loaded patient records into Power BI.
+   - Transformed the data to ensure accuracy and consistency.
+  
+   **Data Structure Overview**
+   ![Hospital Data structure](https://github.com/user-attachments/assets/3136b647-aff5-4bf4-b8ba-72c89daae3b7)
+
+
+3. **Creating the Dashboard:**
+   - Built the dashboard in Power BI to visualise KPIs.
+   - Developed measures and calculated columns to analyse patient admissions, readmissions, average stay durations, and costs per visit.
+   - Filtered and cleaned data to ensure the inclusion of relevant information and the removal of any duplicates or errors.
+     
+![Hospital Data CLeaning](https://github.com/user-attachments/assets/90ee3ccc-4ae2-49d4-976f-879ebf4b8133)
+
+   
+---
 # <a id = "keyfindings">Key Findings</a>
 ## 📌 <a id = "insight1">**INSIGHT 1 — The Grid Is Losing a Two-Front War: Extreme Weather and Physical Attacks**</a>
-
-### **Story**
 
 A decade-long review of US outage data reveals a clear pattern:
 **Weather/Natural Disasters (35.3%)** and **Vandalism/Physical Attacks (30.7%)** (see Fig. 2) are the two leading causes of grid disruptions nationwide. Although weather remains the primary driver, the gap between the two threats is surprisingly narrow, making both **critical risks to grid stability**.
@@ -128,8 +143,6 @@ Without targeted investment in **weather-proofing and security upgrades, outages
 
 ## 📌 <a id = "insight2">INSIGHT 2 — Human Error–Related Outages Have Increased by 108% Since 2018</a>
 
-### Story
-
 While weather and vandalism remain major contributors to outages, **human error has emerged as a rapidly growing threat** (see Fig. 2) . Since 2018, outages caused by operational mistakes have increased by **108%** (see Fig. 5), making it one of the fastest-rising contributors to grid disruptions.
 
 This rise is significant because it comes at a time when outage frequency across all categories has already grown sharply — **90.5% in the last 5 years** and **139.4% over 10 years**. The data suggests not only external pressure on the grid, but also **internal operational weaknesses** within teams responsible for system oversight and maintenance.
@@ -163,8 +176,6 @@ The rising rate of **human-error outages indicates operational gaps** that must 
 
 
 ## 📌 <a id = "insight3">INSIGHT 3 — Vandalism is a Critical and Growing Threat, especially in the WECC region (48.2% of Vandalism Outages)</a>
-
-### Story
 
 While weather dominates outage frequency nationally, **vandalism has quietly become one of the most destabilising man-made threats to the grid** — and certain regions are feeling the impact disproportionately.
 
@@ -202,8 +213,6 @@ The persistence of **vandalism indicates that utilities must strengthen physical
 ---
 
 ## 📌 <a id = "insight4">INSIGHT 4 — Supply & Demand Issues cause downtimes of up to an alarming 15 Days</a>
-
-### Story
 
 Not all outages are equal. Some last minutes, others last hours, but a specific category called High downtimes consistently pushes the grid into **multi-week or multi-month  recovery efforts**: **Supply and Demand Issues**.
 
